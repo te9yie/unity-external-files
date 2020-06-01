@@ -1,0 +1,9 @@
+{
+  "actor": {
+    "path": "girl_13.png"
+  },
+  "frame": {
+    "path": "video_frame_169.png",
+    "border": { "x": 150, "y": 110, "z": 520, "w": 40 }
+  }
+}
